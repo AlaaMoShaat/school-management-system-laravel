@@ -1,0 +1,42 @@
+<?php
+
+return [
+
+    'Dashboard' => 'Dashboard',
+    'Language' => 'Language',
+    'Grade' => 'Grades',
+    'Grades_list' => 'Grades list',
+    'classes' => 'Classes',
+    'List_classes' => 'List Classes',
+    'sections' => 'Sections',
+    'List_sections' => 'List sections',
+    'subjects' => 'Subjects',
+    'List_subjects' => 'List subjects',
+    'students' => 'Students',
+    'List_students' => 'List students',
+    'Students_Promotions' => 'Students Promotions',
+    'Teachers' => 'Teachers',
+    'List_teachers' => 'List teachers',
+    'Parents' => 'Parents',
+    'List_Parents' => 'List Parents',
+    'Financial_Accounts' => 'Financial Accounts',
+    'List_Fees' => 'List Fees',
+    'List_Invoices' => 'Students Invoices',
+    'List_Receipts' => 'Students Receipts',
+    'List_Processing_fees' => 'Processing Fees',
+    'List_Payments' => 'Payments Receipts',
+    'Attendance' => 'Attendance',
+    'Quizzes' => 'Quizzes',
+    'َList_quizzes' => 'List quizzes',
+    'Questions' => 'Questions',
+    'List_questions' => 'List questions',
+    'library' => 'Library',
+    'َList_books' => 'َList books',
+    'OnlineMeetings' => 'Online Meetings',
+    'List_OnlineMeetings' => 'List Online Meetings',
+    'Settings' => 'Settings',
+    'Users' => 'Users',
+    'Copyright' => 'Copyright',
+    'Name_Programer' => 'Admin'
+
+];

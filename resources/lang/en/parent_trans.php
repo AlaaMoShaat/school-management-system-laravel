@@ -1,0 +1,45 @@
+<?php
+
+return [
+
+    'Add_Parent'=>'Add Parent',
+    'Step1' => 'Father information',
+    'Step2' => 'Mother information',
+    'Step3' => 'Confirm information',
+    'Email' => 'Email',
+    'Password' => 'Password',
+    'Name_Father' => 'Father Name Arabic',
+    'Name_Father_en' => 'Father Name English',
+    'Name_Mother' => 'Mother Name Arabic',
+    'Name_Mother_en' => 'Mother Name English',
+    'Job' => 'Job Title Arabic',
+    'Job_en' => 'Job Title English',
+    'National_ID' => 'Identification Number',
+    'Passport_ID' => 'Passport Number',
+    'Phone' => 'Telephone Number',
+    'Nationality' => 'Nationality',
+    'Blood_Type' => 'Blood Type',
+    'Religion' => 'Religion',
+    'Address' => 'Address in Arabic',
+    'Address_en' => 'Address in English',
+    'Next' => 'Next',
+    'Back' => 'Back',
+    'Finish' => 'Finish',
+    'Choose' => 'Choose',
+    'Sure' => 'Are you sure to save the data ?',
+    'Attachments' => 'Attachments',
+    'delete_Parent' => 'Delete_Parent',
+
+    //for th in parent table
+
+    'Name_Father_th' => 'Father Name',
+    'Name_Mother_th' => 'Mother Name',
+    'National_ID_Father_th' => 'Father Identification Number',
+    'National_ID_Mother_th' => 'Mother Identification Number',
+    'Passport_ID_Father_th' => 'Father Passport Number',
+    'Passport_ID_Mother_th' => 'Mother Passport Number',
+    'Phone_Father_th' => 'Father Phone',
+    'Phone_Mother_th' => 'Mother Phone',
+    'Job_Father_th' => 'Father Jop',
+    'Job_Mother_th' => 'Mother Jop',
+];
